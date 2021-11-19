@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JDS150k
+- 👀 I’m interested in game development, interactive fiction, choice-based games, web-based virtual worlds, narratology, fractal geometry, and personal development.
+- 🌱 I’m currently learning how to use the Flask framework to make web apps with Python, SQLite3, HTML5, CSS, SASS, and Javascript.
+- 💞️ I’m looking to collaborate on anything that will challenge me to improve myself, especially if it is a narrative-driven or narrative-orientated project.
+- 📫 How to reach me: discord (JDS#9514) or email (jds150k@gmail.com).
